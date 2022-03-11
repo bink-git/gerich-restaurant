@@ -1,0 +1,27 @@
+.app__specialMenu {
+  flex-direction: column;
+  background-color: var(--color-black);
+}
+.app__specialMenu-title {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.app__specialMenu-menu {
+  width: 100%;
+  margin: 2rem 0;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.app__specialMenu-menu_wine {
+}
+.app__specialMenu_menu_heading {
+}
+.app__specialMenu_menu_items {
+}
+.app__specialMenu_img {
+}
+.app__specialMenu-menu_cocktails {
+}
+.custom__button {
+}
